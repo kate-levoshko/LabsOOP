@@ -1,0 +1,12 @@
+D:\Study\2 курс\2 семестр\ООП\labs\lab1\lab1\bin\Debug\lab1.exe.config
+D:\Study\2 курс\2 семестр\ООП\labs\lab1\lab1\bin\Debug\lab1.exe
+D:\Study\2 курс\2 семестр\ООП\labs\lab1\lab1\bin\Debug\lab1.pdb
+D:\Study\2 курс\2 семестр\ООП\labs\lab1\lab1\obj\Debug\lab1.csprojResolveAssemblyReference.cache
+D:\Study\2 курс\2 семестр\ООП\labs\lab1\lab1\obj\Debug\lab1.exe
+D:\Study\2 курс\2 семестр\ООП\labs\lab1\lab1\obj\Debug\lab1.pdb
+D:\Study\2 курс\2 семестр\ООП\labs\lab1\task1\lab1\bin\Debug\lab1.exe.config
+D:\Study\2 курс\2 семестр\ООП\labs\lab1\task1\lab1\obj\Debug\lab1.exe
+D:\Study\2 курс\2 семестр\ООП\labs\lab1\task1\lab1\obj\Debug\lab1.pdb
+D:\Study\2 курс\2 семестр\ООП\labs\lab1\task1\lab1\bin\Debug\lab1.exe
+D:\Study\2 курс\2 семестр\ООП\labs\lab1\task1\lab1\bin\Debug\lab1.pdb
+D:\Study\2 курс\2 семестр\ООП\labs\lab1\task1\lab1\obj\Debug\lab1.csprojResolveAssemblyReference.cache
